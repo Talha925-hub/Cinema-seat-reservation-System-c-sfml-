@@ -1,0 +1,7 @@
+https://www.linkedin.com/posts/muhsin-jawad-848973327_we-developed-a-cinema-seat-reservation-system-activity-7280233954949885953-2Bdw?utm_source=share&utm_medium=member_desktop
+
+
+Project Description:
+We developed a cinema seat reservation system using SFML and C++ as part of our first-semester project. Our team, consisting of Mohsin Jawad, Muhammad Talah Manzoor, and Shabnam Sherzai, worked hard to create a straightforward and functional application
+
+
